@@ -12,13 +12,13 @@
 create a configuration file
 
 ```bash
-npx 7frank/crossnotes-cli init
+npx 7frank/crossnote-cli init
 ```
 
 export your markdown files to PDF
 
 ```bash
-npx 7frank/crossnotes-cli generate
+npx 7frank/crossnote-cli generate
 ```
 
 Change your configuration file to your needs.
