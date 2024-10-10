@@ -1,0 +1,7 @@
+{
+  "outputPath": "./public",
+  "notebookPath": ".",
+  "exported": [
+    "README.md"
+  ]
+}
