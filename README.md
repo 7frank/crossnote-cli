@@ -13,12 +13,16 @@ create a configuration file
 
 ```bash
 npx 7frank/crossnote-cli init
+# or
+bunx github:7frank/crossnote-cli init
 ```
 
 export your markdown files to PDF
 
 ```bash
 npx 7frank/crossnote-cli generate
+# or
+bunx github:7frank/crossnote-cli generate
 ```
 
 Change your configuration file to your needs.
